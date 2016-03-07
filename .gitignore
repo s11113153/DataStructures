@@ -3,3 +3,5 @@ Graph2/.idea/
 Graph2/out/**/*.class
 Graph_BFS/.idea/
 Graph_BFS/out/**/*.class
+Graph_DFS/.idea
+Graph_DFS/out/**/*.class
