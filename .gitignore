@@ -1,19 +1,23 @@
+/**/*.iml
+/**/*.class
+/**/.idea
+
+
 untitled/
 
-Graph2/.idea/
-Graph2/out/**/*.class
+## Graph2/.idea/
+## Graph2/out/**/*.class
 
-Graph_BFS/.idea/
-Graph_BFS/out/**/*.class
+## Graph_BFS/.idea/
+## Graph_BFS/out/**/*.class
 
-Graph_DFS/.idea
-Graph_DFS/out/**/*.class
+## Graph_DFS/.idea
+## Graph_DFS/out/**/*.class
 
-Graph/.idea
-Graph/out/**/*.class
+## Graph/.idea
+## Graph/out/**/*.class
 
-MinCostTree/.idea
-MinCostTree/out/**/*.class
+## MinCostTree/.idea
+## MinCostTree/out/**/*.class
 
-./**/*.iml
 
